@@ -1,3 +1,5 @@
+# Use HC-SR04+ sensor to measure distance with Raspberry Pi
+
 import RPi.GPIO as GPIO
 import time
  
